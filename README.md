@@ -28,3 +28,5 @@ imblearn
 pathlib
 
 Screen Shots
+Splitting data into trainig and testing 
+![train_test](https://github.com/natenet8787/Credit_Risk/blob/main/train_test.PNG)
