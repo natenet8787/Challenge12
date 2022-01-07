@@ -1,5 +1,5 @@
 # Challenge12
-#Credit Risk
+Credi Risk
 The purpose of this analysis was to use customer information to determine if a loan was healthy or unhealthy for a peer to peer lending company
 
 Step 1: Import the lending data CSV
@@ -12,7 +12,7 @@ Step 4: Add resampling data using RandomOverSampler
 
 Step 5: Create a Report explaining the findings and what model worked the best
 
-#Technologies
+Technologies
 This application is written in Python 3.7
 
 this application uses the following packages:
