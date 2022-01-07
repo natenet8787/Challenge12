@@ -39,4 +39,5 @@ Logistic Regreesion with resampled data
 ![resample](https://github.com/natenet8787/Credit_Risk/blob/main/resample.PNG)
 
 Results
+
 ![results](https://github.com/natenet8787/Credit_Risk/blob/main/results.PNG)
