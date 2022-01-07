@@ -29,4 +29,14 @@ pathlib
 
 Screen Shots
 Splitting data into trainig and testing 
+
 ![train_test](https://github.com/natenet8787/Credit_Risk/blob/main/train_test.PNG)
+
+Logistic Regression Model
+![log_regress](https://github.com/natenet8787/Credit_Risk/blob/main/log_regress.PNG)
+
+Logistic Regreesion with resampled data
+![resample](https://github.com/natenet8787/Credit_Risk/blob/main/resample.PNG)
+
+Results
+![results](https://github.com/natenet8787/Credit_Risk/blob/main/results.PNG)
